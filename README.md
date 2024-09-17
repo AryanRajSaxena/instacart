@@ -5,6 +5,10 @@
 
 This project is focused on analyzing various datasets using multiple machine learning techniques, including clustering, multivariate analysis, and other data study methodologies. The notebooks in this repository provide detailed code and analysis for extracting insights from the data.
 
+## Data Files
+https://www.kaggle.com/datasets/aryanrajsaxena/instacart-clustering-data/data
+https://www.kaggle.com/datasets/aryanrajsaxena/insta-cart
+
 ## Contents
 
 The repository contains the following notebooks:
